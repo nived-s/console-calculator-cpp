@@ -1,0 +1,3 @@
+﻿  Calculator.cpp
+E:\CPP codes\Calculator\Calculator.cpp(46,11): warning C4101: 'result': unreferenced local variable
+  Calculator.vcxproj -> E:\CPP codes\Calculator\x64\Debug\Calculator.exe
